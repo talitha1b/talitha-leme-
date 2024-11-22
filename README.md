@@ -6,6 +6,6 @@
 <p> roupas do momento </p>
 </div>
 <div>
-<!-- apague esse comentario e insira um video de sua preferencia –>
+<!-https://www.youtube.com/watch?v=yHLtUMgIRrc&t=100s-–>
 </div>
 </section>
